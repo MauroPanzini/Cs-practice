@@ -1,2 +1,2 @@
-# C-practice
+# Cs-practice
 Practicing C# 
